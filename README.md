@@ -1,6 +1,6 @@
 # My coding Projects (Python, JAVA, C++)
 
-- I started learning Python with "stanCode" courses.
+- I started to learn Python with "stanCode" courses.
 - I had finished courses "SC001", "SC101" in 2023, 
   and finished courses "SC201", JAVA & C++ workshop in 2024.
   
