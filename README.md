@@ -25,16 +25,16 @@
     - *blur.py* ────── Blur images using the average RGB values of a pixel's nearest neighbors.
 
   - **SC101: Advances of Python, include object-oriented programming, data structure, algorithm and web crawler.**
-  - *coin_flip_runs.py* ────── Simulate coin flip(s) with the number of consecutive runs inputted by users.
-  - *draw_line.py* ────── Creates circles or lines by odd / even clicks on an instance of GWindow class.
-  - *bouncing_ball.py* ────── Simulates a bouncing ball.
-  - *breakout.py, breakoutgraphics.py* ────── Breakout game & it's background setting.
-  - *stanCodoshop.py* ────── 
-  - *babygraphics.py, babynames.py* ────── 
-  - *webcrawler.py* ────── 
-  - *sierpinski.py* ────── 
-  - *☆☆☆ anagram.py* ────── 
-  - *☆☆☆ boggle_TrieNode.py* ────── 
+    - *coin_flip_runs.py* ────── Simulate coin flip(s) with the number of consecutive runs inputted by users.
+    - *draw_line.py* ────── Creates circles or lines by odd / even clicks on an instance of GWindow class.
+    - *bouncing_ball.py* ────── Simulates a bouncing ball.
+    - *breakout.py, breakoutgraphics.py* ────── Breakout game & it's background setting.
+    - *stanCodoshop.py* ────── 
+    - *babygraphics.py, babynames.py* ────── 
+    - *webcrawler.py* ────── 
+    - *sierpinski.py* ────── 
+    - *☆☆☆ anagram.py* ────── 
+    - *☆☆☆ boggle_TrieNode.py* ────── 
   
   - **SC201: AI courses, include machine learning & neural network, and so on.**
   - **JAVA & C++ workshop: I also completed some programs using JAVA, C++.**
