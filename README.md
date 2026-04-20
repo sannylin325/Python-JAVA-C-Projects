@@ -29,7 +29,7 @@
     - *draw_line.py* ────── Creates circles or lines by odd / even clicks on an instance of GWindow class.
     - *bouncing_ball.py* ────── Simulates a bouncing ball.
     - *breakout.py, breakoutgraphics.py* ────── Breakout game & it's background setting.
-    - *stanCodoshop.py* ────── 
+    - *stanCodoshop.py* ────── Remove passersby from photos by calculating and replacing pixels.
     - *babygraphics.py, babynames.py* ────── 
     - *webcrawler.py* ────── 
     - *sierpinski.py* ────── 
