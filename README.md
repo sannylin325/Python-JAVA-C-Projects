@@ -6,8 +6,8 @@
   
 - Here are the programs that I accomplished! (Updating...to be continued...)
   - **SC001: Basics of Python, include deciphering, Hangman game, and so on.**
-    - quadratic_solver.py     ─── Compute the roots of equation ax^2 + bx + c = 0.
-    - hailstone.py            ─── Simulates the execution of the Hailstone sequence.
+    - quadratic_solver.py ─────── Compute the roots of equation ax^2 + bx + c = 0.
+    - hailstone.py ────────────── Simulates the execution of the Hailstone sequence.
     - weather_master.py       ─── Compute the average, highest, lowest, cold days among the input weather data from user.
     - prime_checker.py        ─── Check if input number is a prime number or not (using while-loop, until exit number is entered).
     - factorial.py            ─── Calculate and print the factorial result of input number (using while-loop, until exit number is entered).
