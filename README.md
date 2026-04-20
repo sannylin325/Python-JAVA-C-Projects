@@ -17,7 +17,7 @@
     - SC001_a3_01_rocket.py: Draw a rocket image with constants by for-loop.
     - SC001_a3_02_caesar_decipher.py: Encrypted and decrypted strings with alphabet order changed by selected number.
     - SC001_a3_03_complement.py: Uses string manipulation to find the complement strand of a DNA sequence.
-    - ★SC001_a3_04_hangman_ext.py: Hangman game with punctuation images (using while-loop, string manipulation, random, and so on.)
+    - ☆☆☆SC001_a3_04_hangman_ext.py: Hangman game with punctuation images (using while-loop, string manipulation, random, and so on.)
     - SC001_a3_extension1_name_sq.py: Print out the square pattern of the given name.
     - SC001_a3_extension2_similarity.py: Compare best match of short dna sequence and long dna sequence.
     - SC001_a4_01_fire.py: Detects the pixels that are recognized as fire and highlights them for better observation.
