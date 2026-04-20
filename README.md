@@ -4,7 +4,7 @@
 - I had finished courses "SC001", "SC101" in 2023, 
   and finished courses "SC201", JAVA & C++ workshop in 2024.
   
-- Here are the programs that I accomplished! (Updating...to be continued...)
+- Here are the programs that I accomplished! 
   - **SC001: Basics of Python, include deciphering, Hangman game, and so on.**
     - *quadratic_solver.py* ────── Compute the roots of equation ax^2 + bx + c = 0.
     - *hailstone.py* ─────── Simulates the execution of the Hailstone sequence.
@@ -14,11 +14,11 @@
     - *number_checker.py* ────── Check if input number is perfect / abundant / dificient number.
     - *triangular_checker.py* ────── Check if input number is a triangular number or not (using while-loop, until exit number is entered).
     - *narcissistic_checker.py* ────── Check if input number is a narcissistic number or not (using while-loop, until exit number is entered).
-    - *rocket.py* ────── Draw a rocket image with constants by for-loop.
+    - *rocket.py* ────── Print a rocket image with constants by for-loop.
     - *caesar_decipher.py* ────── Encrypted and decrypted strings with alphabet order changed by selected number.
     - *complement.py* ────── Uses string manipulation to find the complement strand of a DNA sequence.
     - *☆☆☆ hangman_ext.py* ────── Hangman game with punctuation images (using while-loop, string manipulation, random, and so on.)
-    - *name_sq.py* ────── Print out the square pattern of the given name.
+    - *name_sq.py* ────── Print the square pattern of the given name on console.
     - *similarity.py* ────── Compare best match of short dna sequence and long dna sequence.
     - *fire.py* ────── Detects the pixels that are recognized as fire and highlights them for better observation.
     - *mirror_lake.py* ────── Creates a mirror lake vibe by placing an inverse image of mt-rainier.jpg below the original one.
@@ -28,13 +28,13 @@
     - *coin_flip_runs.py* ────── Simulate coin flip(s) with the number of consecutive runs inputted by users.
     - *draw_line.py* ────── Creates circles or lines by odd / even clicks on an instance of GWindow class.
     - *bouncing_ball.py* ────── Simulates a bouncing ball.
-    - *breakout.py, breakoutgraphics.py* ────── Breakout game & it's background setting.
-    - *stanCodoshop.py* ────── Remove passersby from photos by calculating and replacing pixels.
-    - *babygraphics.py, babynames.py* ────── 
-    - *webcrawler.py* ────── 
-    - *sierpinski.py* ────── 
-    - *☆☆☆ anagram.py* ────── 
-    - *☆☆☆ boggle_TrieNode.py* ────── 
+    - *☆☆ breakout.py, breakoutgraphics.py* ────── Breakout game & it's background setting.
+    - *☆ stanCodoshop.py* ────── Remove passersby from photos by calculating and replacing pixels.
+    - *☆☆☆ babygraphics.py, babynames.py* ────── Show ranking changes of inputted baby names over the years.
+    - *☆ webcrawler.py* ────── Collect data from website, calculate and print the number of top 200 male and female on console.
+    - *sierpinski.py* ────── Print the Sierpinski triangle on GWindow by recursion.
+    - *☆☆☆ anagram.py* ────── Find all the anagram(s) for the inpuetted word by recursion.
+    - *☆☆☆ boggle_TrieNode.py* ────── Solve Boggle game (accelerate by class TrieNode).
   
-  - **SC201: AI courses, include machine learning & neural network, and so on.**
-  - **JAVA & C++ workshop: I also completed some programs using JAVA, C++.**
+  - **SC201: AI courses, include machine learning & neural network, and so on.** (Updating...to be continued...)
+  - **JAVA & C++ workshop: I also completed some programs using JAVA, C++.** (Updating...to be continued...)
