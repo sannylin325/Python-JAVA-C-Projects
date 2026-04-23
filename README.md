@@ -38,3 +38,20 @@
   
   - **SC201: AI courses, include machine learning & neural network, and so on.** (Updating...to be continued...)
   - **JAVA & C++ workshop: I also completed some programs using JAVA, C++.** (Updating...to be continued...)
+    - *similarity*
+    - *FrogSimulation*
+    - *HiddenWord*
+    - *TextBook*
+    - *WordMatch*
+    - *Anagram*
+    - *ArrayResizer*
+    - *ReviewAnalysis*
+    - *WordPair*
+    - (/// below: same theme with python programs, completed in JAVA, C++ ///)
+    - *narcissisticChecker* ────── Check if input number is a narcissistic number or not (using while-loop, until exit number is entered).
+    - *primeChecker* ────── Check if input number is a prime number or not (using while-loop, until exit number is entered).
+    - *quadratic* ────── Compute the roots of equation ax^2 + bx + c = 0.
+    - *weatherMaster* ────── Compute the average, highest, lowest, cold days among the input weather data from user.
+    - *caesar* ────── Encrypted and decrypted strings with alphabet order changed by selected number.
+    - *hangman* ────── Hangman game (using while-loop, string manipulation, random, and so on.)
+    - *rocket* ────── Print a rocket image with constants by for-loop.
