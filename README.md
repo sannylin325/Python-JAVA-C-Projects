@@ -37,7 +37,10 @@
     - *☆☆☆ boggle_TrieNode.py* ────── Solve Boggle game (accelerate by class TrieNode).
   
   - **SC201: AI courses, include machine learning & neural network, and so on.** (Updating...to be continued...)
-  - **JAVA & C++ workshop: I also completed some programs using JAVA, C++.** (Updating...to be continued...)
+    - *Titanic data* ────── Train predictive models by logistic regression (with polynomial features), deep neural network, ...
+    - *Boston-Housing data* ────── Train a predictive model by linear regression.
+      
+  - **JAVA & C++ workshop: I also completed some programs using JAVA, C++.** 
     - *FrogSimulation* ────── A simulation of a frog attempting to reach a goal: keeps track of the goal distance, the maximum number of hops allowed, and the current count of hops taken by the frog.
     - *HiddenWord* ────── A hidden word puzzle game: allows players to guess the hidden word and provides a hint based on their guesses.
     - *TextBook* ────── A program about Object-Oriented inheritance.
