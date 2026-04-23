@@ -38,15 +38,14 @@
   
   - **SC201: AI courses, include machine learning & neural network, and so on.** (Updating...to be continued...)
   - **JAVA & C++ workshop: I also completed some programs using JAVA, C++.** (Updating...to be continued...)
-    - *similarity*
-    - *FrogSimulation*
-    - *HiddenWord*
-    - *TextBook*
-    - *WordMatch*
-    - *Anagram*
-    - *ArrayResizer*
-    - *ReviewAnalysis*
-    - *WordPair*
+    - *FrogSimulation* ────── A simulation of a frog attempting to reach a goal: keeps track of the goal distance, the maximum number of hops allowed, and the current count of hops taken by the frog.
+    - *HiddenWord* ────── A hidden word puzzle game: allows players to guess the hidden word and provides a hint based on their guesses.
+    - *TextBook* ────── A program about Object-Oriented inheritance.
+    - *WordMatch* ────── A word matching game: allows scoring and comparison of word guesses based on a secret word provided during object construction.
+    - *Anagram* ────── Compare two given strings and return weather these two strings are anagrams or not.
+    - *ArrayResizer* ────── Methods to work with two-dimensional arrays(checking for non-zero rows, counting the number of rows with all non-zero values, and resizing the two-dimensional array to contain only rows with no zeros.)
+    - *ReviewAnalysis* ────── Manages user reviews by storing ratings and comments, ensuring valid input, and providing analysis such as calculating the average rating and collecting selected feedback.
+    - *WordPair* ────── The WordPair class represents a pair of words, and the WordPairList class represents a list of word pairs, provides a method to calculate the number of matching pairs where the first and second words are the same.
     - (/// below: same theme with python programs, completed in JAVA, C++ ///)
     - *narcissisticChecker* ────── Check if input number is a narcissistic number or not (using while-loop, until exit number is entered).
     - *primeChecker* ────── Check if input number is a prime number or not (using while-loop, until exit number is entered).
@@ -55,3 +54,4 @@
     - *caesar* ────── Encrypted and decrypted strings with alphabet order changed by selected number.
     - *hangman* ────── Hangman game (using while-loop, string manipulation, random, and so on.)
     - *rocket* ────── Print a rocket image with constants by for-loop.
+    - *similarity* ────── Compare best match of short dna sequence and long dna sequence.
